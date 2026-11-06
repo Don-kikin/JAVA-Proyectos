@@ -13,8 +13,3 @@ El código fuente está organizado dentro del paquete `mx.com.animales`:
 * **Vaca**: Subclase de `Animal` que implementa `Movible`.
 * **Caballo**: Subclase adicional (reto extra) que extiende `Animal` e implementa `Movible`.
 * **Main**: Clase ejecutable que gestiona el arreglo polimórfico `Animal[]` y ejecuta las acciones de cada instancia.
-
-## Instrucciones de Ejecución
-1. Clonar el repositorio:
-   ```bash
-   git clone <URL_DEL_REPOSITORIO>
